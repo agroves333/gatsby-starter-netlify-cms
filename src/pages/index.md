@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
-title: Web, Mobile and Desktop apps for the modern business.
+title: Web, mobile and desktop apps for the modern business.
 image:
 video: /video/home-video-1.mp4
-heading: Web, Mobile and Desktop apps for the modern business.
-subheading: Support sustainable farming while enjoying a cup
+heading: Web, mobile and desktop apps for the modern business.
+subheading: ""
 mainpitch:
   title: Why Orange Groove
   description: >
@@ -53,7 +53,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Web, Mobile and Desktop applications for the modern business.
+  heading: Web, mobile and desktop apps for the modern business.
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s

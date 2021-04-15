@@ -1,0 +1,7 @@
+# Ignore artifacts:
+.cache
+.dependabot
+.github
+node_modules
+public
+static

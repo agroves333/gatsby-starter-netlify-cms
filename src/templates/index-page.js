@@ -73,11 +73,14 @@ export const IndexPageTemplate = ({
           position: "relative",
         }}
       >
-        <div className="content" style={{
-          position: 'absolute',
-          width: '100%',
-          height: '100%'
-        }}>
+        <div
+          className="content"
+          style={{
+            position: "absolute",
+            width: "100%",
+            height: "100%",
+          }}
+        >
           <div
             style={{
               display: "flex",
@@ -97,7 +100,7 @@ export const IndexPageTemplate = ({
                 color: "white",
                 lineHeight: "1",
                 padding: "0.25em",
-                textAlign: 'center'
+                textAlign: "center",
               }}
             >
               {title}
@@ -125,7 +128,10 @@ export const IndexPageTemplate = ({
           src={video}
           autoPlay
           loop
-        />
+          muted
+        >
+          video
+        </video>
       </div>
     )}
     <section className="section section--gradient">
@@ -153,8 +159,8 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className="btn" to="/services">
+                      See all services
                     </Link>
                   </div>
                 </div>
